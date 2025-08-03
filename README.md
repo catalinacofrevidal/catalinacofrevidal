@@ -1,8 +1,9 @@
 ## Hi, I'm Catalina 👋!
 
 - 🔭 DevOps Engineer at [Sixbell Telco](https://github.com/sixbell-telco).
+- 2xK8s Certified.
 - 🌱 Learning:
-  - Kubernetes. Working on getting KCSA certification.
+  - Kubernetes, AWS & Hashicorp Vault.
 - ⭐ 2025 Goals:
   - Get KCSA certification.
   - Increase my cloud knowledge.
