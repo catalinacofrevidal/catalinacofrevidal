@@ -1,11 +1,10 @@
 ## Hi, I'm Catalina 👋!
 
 - 🔭 DevOps Engineer at [Sixbell Telco](https://github.com/sixbell-telco).
-- ⭐ 4xK8s Certified: CKA, CKAD, KCNA, KCSA
+- ⭐ 6th [Kubestronaut](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=cl&p=catalina-cofre) in Chile 🚀
 - 🌱 Learning:
-  - Kubernetes, AWS & Hashicorp Vault.
+  - AWS & Hashicorp Vault.
 - 🎯 2025 Goals:
-  - Get CKS certification.
   - Increase my cloud knowledge.
 
 ## Socials
